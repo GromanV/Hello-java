@@ -1,3 +1,3 @@
-# Hello-java
+# Hello-python
 
 My first code
